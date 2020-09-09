@@ -1,0 +1,13 @@
+{
+  "name": "bh20-9-test-stanza",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": "https://github.com/ktym/bh20-9-test-stanza",
+  "dependencies": {
+    "togostanza": "github:togostanza/togostanza"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "private": true
+}
